@@ -1,2 +1,3 @@
 [submodule "esgameco"]
 	path = esgameco
+	url = https://github.com/esgameco/esgameco.github.io/
